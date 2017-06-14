@@ -9,5 +9,4 @@ Demo:
 ![Alt text](/image/chart.PNG "Demo on Connect2Point")
 
 Zooming: 
-
-![Alt text](/image/zooming chart.PNG "After zooming")
+![Alt text](/image/zooming.PNG "After zooming")
